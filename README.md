@@ -8,3 +8,4 @@ The app was created in a TDD manner to refresh my TDD skills.
 
 - Expo
 - react-native-testing-library
+- Typescript
